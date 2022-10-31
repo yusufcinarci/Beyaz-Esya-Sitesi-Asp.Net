@@ -11,7 +11,7 @@
                     <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
                 </td>
                 <td class="style3">
-                    <asp:Button ID="Button1" runat="server" Text="Button" />
+                    <asp:Button ID="Button1" runat="server" Text="Parolayı Yenile" />
                 </td>
                 <td class="style4">
                     <asp:Label ID="Label3" runat="server"></asp:Label>

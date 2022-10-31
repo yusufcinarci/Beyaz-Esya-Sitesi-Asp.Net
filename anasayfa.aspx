@@ -69,8 +69,7 @@
                     <asp:Button ID="Button1" runat="server" Text="Giriş Yap" />
                 </td>
                 <td class="style1" style="width: 214px; text-align: left">
-                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/parolo.aspx">Parolomu 
-                    Unuttum</asp:HyperLink>
+                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/parolo.aspx">Parolamı Unuttum</asp:HyperLink>
                 </td>
             </tr>
             <tr>
