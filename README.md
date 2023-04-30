@@ -1,6 +1,6 @@
 # Beyaz-Esya-Sitesi-Asp.Net
 
-Asp.Net ile hazırlamış olduğum Çınarcı Beyaz Eşya sitesinde televizyon, buzdolabı, fırın vb. ürünlerin fiyatları bulunmakla birlikte girişte kullanıcı olarak ya da  admin olarak klayıt yapan kişinin alışveriş yaparken sepetim kısmı içerisinde satın aldığı tüm bilgiler de kurduğumuz ve bağlamış olduğumuz Access veritabanına anlık olarak geçmektedir. Ayrıca Bu ürünlerin fiyatları veritabanı üzerinden de değiştirilip kontrolü sağlanabilmektedir. Çınarcı Beyaz Eşya isimli beyaz eşya sitemizin genel tasarımı aşağıdaki görselde verilmiştir.
+Asp.Net ile hazırlamış olduğum Çınarcı Beyaz Eşya sitesinde televizyon, buzdolabı, fırın vb. ürünlerin fiyatları bulunmakla birlikte girişte kullanıcı olarak ya da  admin olarak klayıt yapan kişinin alışveriş yaparken sepetim kısmı içerisinde satın aldığı tüm bilgiler de kurduğumuz ve bağlamış olduğumuz Access veritabanına anlık olarak geçmektedir. Ayrıca Bu ürünlerin fiyatları veritabanı üzerinden de değiştirilip kontrolü sağlanabilmektedir. Çınarcı Beyaz Eşya isimli beyaz eşya sitemizin genel tasarımı aşağıdaki görselde verilmiştir.. 
 
 ![image](https://user-images.githubusercontent.com/77057546/199004417-d0dfb369-c975-4df1-a0dc-556e23fdd2b2.png)
 
