@@ -4,7 +4,7 @@ Asp.Net ile hazırlamış olduğum Çınarcı Beyaz Eşya sitesinde televizyon, 
 
 ![image](https://user-images.githubusercontent.com/77057546/199004417-d0dfb369-c975-4df1-a0dc-556e23fdd2b2.png)
 
-Yukarıda verilen resim üzerinde de görüleceği gibi site ana sayfasında bir üst banner, 7 adet menü, üye giriş ekranı, sepet kısmı ve bir alt banner bulunmaktadır. Bu sayfanın tasarımı yazılım dosyaları arasında anasayfa.aspx dosyası içerisinde yapılmıştır.
+Yukarıda verilen resim üzerinde de görüleceği gibi site ana sayfasında bir üst banner, 7 adet menü, üye giriş ekranı, sepet kısmı ve bir alt banner bulunmaktadır. Bu sayfanın tasarımı yazılım dosyaları arasında anasayfa.aspx dosyası içerisinde yapılmıştır.. 
 
 
 ![image](https://user-images.githubusercontent.com/77057546/199006034-cbd93e9a-f7d0-414d-9264-ce38aadb69a7.png)
